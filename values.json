@@ -1,4 +1,6 @@
 {
+  "updated": "2026-11-14",
+  "values": {
   "Chroma Traveler's Gun": 140000.0,
   "Chroma Evergun": 47000.0,
   "Chroma Evergreen": 33000.0,
@@ -189,4 +191,5 @@
   "Seer": 3.0,
   "Orange Seer": 2.0,
   "Yellow Seer": 2.0
+  }
 }
